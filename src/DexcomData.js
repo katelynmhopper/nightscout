@@ -13,6 +13,9 @@ export default function DexcomData({ direction, number, change }) {
 		case 'SingleDown':
 			arrow = '⬇️';
 			break;
+		case 'SingleUp':
+			arrow = '⬆️';
+			break;
 		default:
 			arrow = 'No Data';
 	}
