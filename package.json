@@ -1,7 +1,7 @@
 {
-  "name": "nightscout",
+  "homepage": "https://katelynmhopper.github.io/nightscout",
+  "name": "type1",
   "version": "0.1.0",
-  "homepage": "https://github.com/katelynmhopper/nightscout",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "7.21.11",
