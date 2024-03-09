@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nightscout/static/css/main.9d7d37a0.css",
+    "main.js": "/nightscout/static/js/main.e0922403.js",
+    "static/js/592.db7e6824.chunk.js": "/nightscout/static/js/592.db7e6824.chunk.js",
+    "index.html": "/nightscout/index.html",
+    "main.9d7d37a0.css.map": "/nightscout/static/css/main.9d7d37a0.css.map",
+    "main.e0922403.js.map": "/nightscout/static/js/main.e0922403.js.map",
+    "592.db7e6824.chunk.js.map": "/nightscout/static/js/592.db7e6824.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7d37a0.css",
+    "static/js/main.e0922403.js"
+  ]
+}
