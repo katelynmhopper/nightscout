@@ -1,7 +1,7 @@
 {
-  "name": "nightschout-copy",
+  "name": "nightscout",
   "version": "0.1.0",
-  "homepage": "https://github.com/katelynmhopper/nightscout-copy",
+  "homepage": "https://github.com/katelynmhopper/nightscout",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "7.21.11",
